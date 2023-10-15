@@ -6,7 +6,6 @@ Swift의 UIKit을 이용한 App
 <br/>
 프로젝트 기간 : 2023-10-13 ~ 2023-11-01
 <br/>
-<img src = https://github.com/xdragonball6/EveryThing/raw/main/임시용 last project 이미지.png> </img>
 ---    
 
 ---
